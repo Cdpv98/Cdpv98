@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=82&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="width:100%" src="https://raw.githubusercontent.com/Cdpv98/Cdpv98/main/assets/banner.png" />
 </div>
 
 ###
